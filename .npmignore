@@ -1,0 +1,14 @@
+.nyc_output
+.rpt2_cache
+coverage
+dist
+src
+test
+tsconfig.json
+tslint.json
+update.bat
+node_modules
+tmp
+package-lock.json
+rollup.config.js
+rollup.dev.js
