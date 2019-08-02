@@ -1,6 +1,6 @@
 {
 	"name": "@passoa/pack",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"description": "",
 	"main": "lib/index.js",
 	"types": "lib/src/index.d.ts",
